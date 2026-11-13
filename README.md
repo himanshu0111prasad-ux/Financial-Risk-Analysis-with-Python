@@ -35,8 +35,8 @@ The dataset contains structured financial metrics across **800 rows and 15 colum
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone (https://github.com/himanshu0111prasad-ux/Financial-Risk-Analysis-with-Python)](https://github.com/your-username/your-repo-name.git)
+   
 
 video link
 https://drive.google.com/file/d/1gCm31OKmcnMNCpSSg6gfiOb5GSLm6MDa/view?usp=sharing
