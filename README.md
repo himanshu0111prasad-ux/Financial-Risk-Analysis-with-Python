@@ -1,3 +1,4 @@
+Markdown
 # Financial Data Analysis & Cleaning Pipeline 📊
 
 A Python-based data analysis pipeline built to load, clean, process, and explore financial transactional datasets. 
@@ -31,8 +32,6 @@ The dataset contains structured financial metrics across **800 rows and 15 colum
 * **TenureMonths**: Length of relationship with the firm.
 
 ---
-
-## ⚙️ Getting Started
 
 1. **Clone the repository**:
    ```bash
